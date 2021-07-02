@@ -23,12 +23,12 @@ O desafio é criar um módulo **ListLength** contendo uma função **call** que 
 
 **Testes:**
 <div align="center">
-  <img align="center" src="./assets/desafio-01_testes.png" width="400px"/>
+  <img align="center" src="./assets/desafio-01_testes.PNG" width="400px"/>
 </div>
 
 &nbsp;&nbsp;
 
 **Execução:**
 <div align="center">
-  <img align="center" src="./assets/desafio-01_execucao.png" width="400px"/>
+  <img align="center" src="./assets/desafio-01_execucao.PNG" width="400px"/>
 </div>
